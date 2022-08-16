@@ -1,0 +1,35 @@
+_repo: The-Arizona-Callahan_68548
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bedford-Jones, H. (Henry)
+    aliases:
+    - Wycliffe, John
+    - Hawkwood, Allan
+    - Bedford-Jones, Henry James O'Brien
+    birthdate: 1887
+    deathdate: 1949
+    gutenberg_agent_id: '34930'
+    url: http://www.gutenberg.org/2009/agents/34930
+    wikipedia: https://en.wikipedia.org/wiki/H._Bedford-Jones
+description: ''
+gutenberg_issued: '2022-07-18'
+identifiers:
+  gutenberg: '68548'
+language: en
+pgterms:marc905: 20220709220352bedfordjon
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: United States :Consolidated Magazines Corporation (The Blue Book
+  Magazine),1924.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PS'
+- !lcsh 'Beaver Island (Mich.) -- Fiction'
+- GITenberg
+title: The Arizona Callahan
+url: http://www.gutenberg.org/ebooks/68548
